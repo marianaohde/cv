@@ -1,0 +1,125 @@
+
+/* FONTS */
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Satisfy', cursive; */
+/* COLORS
+#79B4B7
+#FEFBF3
+#F8F0DF
+#9D9D9D
+#2B2B2B*/
+
+h1 {
+  font-family: 'Satisfy', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #79B4B7;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #FFFFFF;
+}
+
+hr {
+  border-top: dotted;
+  color: #9D9D9D;
+}
+
+.container-fluid {
+  padding: 3%
+}
+
+.intertitle {
+  padding: 2%;
+  font-size: 2rem;
+}
+
+/* HEADER */
+
+.header-section {
+  background-color: #79B4B7;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 0 7%;
+}
+
+.hero {
+  margin-bottom: 8%;
+  margin-top: 3%;
+}
+
+/* .header-image {
+  width: 25%;
+  position: relative;
+} */
+
+.title {
+  font-size: 4rem;
+  line-height: 3rem;
+}
+
+/* .cloud1 {
+  width: 15%;
+  position: absolute;
+  left: 70%;
+  top: 15%;
+}
+
+.cloud2 {
+  width: 15%;
+  position: absolute;
+  left: 15%;
+  top: 27%;
+} */
+
+/* RESUME */
+
+.resume {
+  width: 60%;
+  text-align: center;
+}
+
+.profile-resume {
+  padding: 3%;
+}
+
+.icons {
+  color: #79B4B7;
+  padding: 8% 30%;
+}
+
+/* CONTACT */
+
+.contact-section {
+  background-color: #E8EAE6;
+  color: #9D9D9D;
+  text-align: center;
+  padding-bottom: 4%;
+  padding-top: 2%;
+}
+
+.contact-link {
+  color: #FFFFFF;
+}
+
+
+
+.footer {
+  background-color: #79B4B7;
+  text-align: center;
+  color:#FFFFFF;
+  padding: 3%;
+}
+
+/* FOOTER */
